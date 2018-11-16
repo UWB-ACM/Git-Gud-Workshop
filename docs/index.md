@@ -10,7 +10,6 @@ links referenced can be found on this page.
 
 1. [Install the Git command line application. https://git-scm.com/downloads](https://git-scm.com/downloads)
 2. [Create a GitHub account, if you haven't already. https://github.com/](https://github.com/)
-
   Use a personal, non-school e-mail that is OK to be seen publicly.
 3. [Open this tab in the background: https://github.com/UWB-ACM/Git-Gud-Workshop](https://github.com/UWB-ACM/Git-Gud-Workshop)
 
