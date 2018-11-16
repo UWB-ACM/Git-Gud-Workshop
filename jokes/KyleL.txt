@@ -1,0 +1,1 @@
+How do you exit vim? \n Open up a new console window!
