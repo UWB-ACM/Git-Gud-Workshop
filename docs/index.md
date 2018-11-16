@@ -17,7 +17,7 @@ links referenced can be found on this page.
 
 **Links to download:** [PDF](https://github.com/UWB-ACM/Git-Gud-Workshop/raw/master/Git_Gud_Workshop.pdf) [PPTX](https://github.com/UWB-ACM/Git-Gud-Workshop/raw/master/Git_Gud_Workshop.pptx)
 
-<embed src="https://github.com/UWB-ACM/Git-Gud-Workshop/raw/master/Git_Gud_Workshop.pdf" width="500px" height="375" type="application/pdf">
+<embed src="https://raw.githubusercontent.com/UWB-ACM/Git-Gud-Workshop/master/Git_Gud_Workshop.pdf" width="500px" height="375" type="application/pdf">
 
 [UWB-ACM/Git-Gud-Workshop GitHub](https://github.com/UWB-ACM/Git-Gud-Workshop)
 
