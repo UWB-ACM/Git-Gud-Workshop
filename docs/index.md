@@ -15,7 +15,9 @@ links referenced can be found on this page.
 
 ## Presentation Slides
 
-TODO - Direct link to PDF / PPT
+[PDF](../Git_Gud_Workshop.pdf) [PPTX](../Git_Gud_Workshop.pptx)
+
+<embed src="../Git_Gud_Workshop.pdf" width="500" height="375" type='application/pdf'>
 
 [UWB-ACM/Git-Gud-Workshop GitHub](https://github.com/UWB-ACM/Git-Gud-Workshop)
 
